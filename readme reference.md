@@ -7,5 +7,5 @@ npm create vue@latest
 run the project 
 
 cd vue-project
-  npm install
-  npm run dev
+ npm install
+ npm run dev
